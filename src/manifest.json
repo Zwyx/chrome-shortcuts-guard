@@ -5,7 +5,7 @@
 	"manifest_version": 2,
 	"content_scripts": [
 		{
-			"matches": ["https://github.com/*", "https://riot.im/app/*"],
+			"matches": ["https://github.com/*", "https://riot.im/app/*", "https://app.element.io/*", "https://next.observablehq.com/*"],
 			"js": ["script.js"]
 		}
 	]
