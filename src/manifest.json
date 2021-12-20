@@ -1,11 +1,16 @@
 {
-	"name": "GFH",
+	"name": "chrome-bepo-xxerty",
 	"version": "1.0",
-	"description": "GitFckngHub",
+	"description": "Make the bepo-xxerty customised keyboard work on sites handling keyboard events in their own way.",
 	"manifest_version": 2,
 	"content_scripts": [
 		{
-			"matches": ["https://github.com/*", "https://riot.im/app/*", "https://app.element.io/*", "https://next.observablehq.com/*"],
+			"matches": [
+				"https://github.com/*",
+				"https://riot.im/app/*",
+				"https://app.element.io/*",
+				"https://observablehq.com/*"
+			],
 			"js": ["script.js"]
 		}
 	]
