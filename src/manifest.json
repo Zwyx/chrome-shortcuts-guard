@@ -9,7 +9,8 @@
 				"https://github.com/*",
 				"https://riot.im/app/*",
 				"https://app.element.io/*",
-				"https://observablehq.com/*"
+				"https://observablehq.com/*",
+				"https://discord.com/*"
 			],
 			"js": ["script.js"]
 		}
