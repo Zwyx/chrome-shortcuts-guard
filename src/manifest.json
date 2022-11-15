@@ -7,10 +7,13 @@
 		{
 			"matches": [
 				"https://github.com/*",
+				"https://gist.github.com/*",
 				"https://riot.im/app/*",
 				"https://app.element.io/*",
 				"https://observablehq.com/*",
-				"https://discord.com/*"
+				"https://discord.com/*",
+				"https://atlassian.net/*",
+				"https://myshopify.com/*"
 			],
 			"js": ["script.js"]
 		}
