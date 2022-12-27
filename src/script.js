@@ -1,9 +1,9 @@
 window.addEventListener(
 	"keydown",
-	e => {
+	(e) => {
 		if (e.ctrlKey) {
 			e.stopPropagation();
 		}
 	},
-	true
+	true,
 );

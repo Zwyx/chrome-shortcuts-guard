@@ -2,7 +2,7 @@
 	"name": "chrome-bepo-xxerty",
 	"version": "1.0",
 	"description": "Make the bepo-xxerty customised keyboard work on sites handling keyboard events in their own way.",
-	"manifest_version": 2,
+	"manifest_version": 3,
 	"content_scripts": [
 		{
 			"matches": [
@@ -13,7 +13,18 @@
 				"https://observablehq.com/*",
 				"https://discord.com/*",
 				"https://atlassian.net/*",
-				"https://myshopify.com/*"
+				"https://myshopify.com/*",
+				"https://stackoverflow.com/*",
+				"https://*.stackoverflow.com/*",
+				"https://superuser.com/*",
+				"https://meta.superuser.com/*",
+				"https://serverfault.com/*",
+				"https://meta.serverfault.com/*",
+				"https://askubuntu.com/*",
+				"https://meta.askubuntu.com/*",
+				"https://*.stackexchange.com/*",
+				"https://stackapps.com/*",
+				"https://stackoverflowteams.com/*"
 			],
 			"js": ["script.js"]
 		}
