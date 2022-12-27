@@ -1,5 +1,5 @@
 {
-	"name": "chrome-bepo-xxerty",
+	"name": "chrome-shortcuts-guard",
 	"version": "1.0",
 	"description": "Make the bepo-xxerty customised keyboard work on sites handling keyboard events in their own way.",
 	"manifest_version": 3,
