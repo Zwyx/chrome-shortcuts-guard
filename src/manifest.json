@@ -8,12 +8,7 @@
 			"matches": [
 				"https://github.com/*",
 				"https://gist.github.com/*",
-				"https://riot.im/app/*",
-				"https://app.element.io/*",
-				"https://observablehq.com/*",
-				"https://discord.com/*",
-				"https://atlassian.net/*",
-				"https://myshopify.com/*",
+
 				"https://stackoverflow.com/*",
 				"https://*.stackoverflow.com/*",
 				"https://superuser.com/*",
@@ -24,7 +19,16 @@
 				"https://meta.askubuntu.com/*",
 				"https://*.stackexchange.com/*",
 				"https://stackapps.com/*",
-				"https://stackoverflowteams.com/*"
+				"https://stackoverflowteams.com/*",
+
+				"https://riot.im/app/*",
+				"https://app.element.io/*",
+				"https://discord.com/*",
+				"https://web.whatsapp.com/",
+
+				"https://observablehq.com/*",
+				"https://atlassian.net/*",
+				"https://myshopify.com/*"
 			],
 			"js": ["script.js"]
 		}
