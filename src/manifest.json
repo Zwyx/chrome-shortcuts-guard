@@ -21,14 +21,15 @@
 				"https://stackapps.com/*",
 				"https://stackoverflowteams.com/*",
 
+				"https://regex101.com/",
+				"https://observablehq.com/*",
+				"https://atlassian.net/*",
+				"https://myshopify.com/*",
+
 				"https://riot.im/app/*",
 				"https://app.element.io/*",
 				"https://discord.com/*",
-				"https://web.whatsapp.com/",
-
-				"https://observablehq.com/*",
-				"https://atlassian.net/*",
-				"https://myshopify.com/*"
+				"https://web.whatsapp.com/"
 			],
 			"js": ["script.js"]
 		}
