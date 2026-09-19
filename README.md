@@ -1,3 +1,5 @@
+> **This was only useful with the original version of [bepo-code](https://github.com/Zwyx/bepo-code). It has no use with the new version of bepo-code, using keyd.**
+
 # chrome-shortcuts-guard
 
 This Chrome extension prevents [specific smarty-pants websites](./src/manifest.json) from messing up the keyboard shortcuts, which can have stupid results on non standard keyboard layouts.
